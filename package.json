@@ -1,0 +1,15 @@
+{
+  "name": "auto-retention-pro",
+  "version": "2.0.0",
+  "description": "Multi Bot Telegram Retention, Analytics, Moderation and Auto Reaction System",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pg": "^8.16.3",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
